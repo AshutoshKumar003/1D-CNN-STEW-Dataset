@@ -104,6 +104,3 @@ These results are **not meaningful** yet, because of the known issues below.
   *STEW: Simultaneous Task EEG Workload Data Set*, IEEE TNSRE.
 - Dataset hosted on Kaggle.
 
-## License
-
-Specify your license here (e.g., MIT).
